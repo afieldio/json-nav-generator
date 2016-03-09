@@ -1,0 +1,33 @@
+{   "menu": [
+    {
+    "title": "Home",
+    "slug": "home"
+    },{
+    "title": "About",
+    "slug": "about"
+    },{
+    "title": "Contact Us",
+    "slug": "contact-us"
+    },{
+    "title": "Projects",
+    "slug": "projects"
+    }],
+    
+    "css":[
+    {"nav": 
+            "display: block; margin: 0 0 36px; padding: 0 0 24px; font: normal 18px 'Cabin Regular', 'Lato', sans-serif!important; border-bottom: solid 1px #ECECEC; text-align: left;"
+    },
+    {"li": 
+            "display: inline-block; margin: 0 30px 0 0;"
+    },
+    {"a": 
+            "color: #333!important;"
+
+    },
+    {"aS": 
+            "color: #99266E!important;"
+
+
+    }]
+
+}
