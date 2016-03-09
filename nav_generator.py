@@ -28,7 +28,3 @@ for i, d in enumerate(data['menu']):
         with open("menu.html", "w") as text_file:
             text_file.write(html)
 
-
-    
-
-
